@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=POSIX shell script for creating a minimal EPUB from a small collection of files
+EAPI=8
+HOMEPAGE=https://sr.ht/~flexibeast/epub-create/
+INHERIT=git-r3
+KEYWORDS=~amd64
+LICENSE=ISC
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b
+_md5_=b9ea35bf288bfe9f6b4ced94266603b0
