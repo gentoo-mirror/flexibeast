@@ -1,2 +1,3 @@
 app-emulation/qemu-start 9999: Simple interactive POSIX shell script to facilitate launching QEMU VMs
 app-text/epub-create 9999: POSIX shell script for creating a minimal EPUB from a small collection of files
+net-news/newsd 1.54: NNTP news server for private newsgroup serving on a single server
