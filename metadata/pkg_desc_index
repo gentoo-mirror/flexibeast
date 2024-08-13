@@ -1,3 +1,5 @@
+acct-group/nncp 0: A group for net-misc/nncp
+acct-user/nncp 0: A user for net-misc/nncp
 app-emulation/qemu-start 9999: Simple interactive POSIX shell script to facilitate launching QEMU VMs
 app-text/epub-create 9999: POSIX shell script for creating a minimal EPUB from a small collection of files
 net-misc/nncp 8.11.0: Utilities for securely store-and-forwarding files, mail and commands
